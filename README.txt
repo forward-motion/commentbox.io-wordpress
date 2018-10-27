@@ -7,7 +7,6 @@ Requires PHP: 5.4
 
 A beautiful, ad-free, hosted commenting alternative to Disqus.
 
-
 == Description ==
 
 [CommentBox.io](https://commentbox.io/) is a privacy-conscious hosted commenting system. In direct contract to Disqus, we don't serve ads or mine user data. Our main goal is to provide an excellent commenting experience for both our customers and their end-users, with a philosophy of friendliness, transparency, and responsibility.
