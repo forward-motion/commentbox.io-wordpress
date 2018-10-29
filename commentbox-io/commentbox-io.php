@@ -12,7 +12,6 @@
  * Version:           1.0.0
  * Author:            CommentBox.io
  * Text Domain:       commentbox-io
- * Author URI:        https://commentbox.io
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
@@ -168,6 +167,8 @@ if (!class_exists( 'CommentBoxIo' )) {
                     placeholder="<?php echo $args['placeholder'] ?>"
                 <?php echo $args['required'] ? 'required' : '' ?>
             />
+            <label>(<?php echo $args['required'] ? 'required' : 'optional' ?>)</label>
+
             <?php
         }
 

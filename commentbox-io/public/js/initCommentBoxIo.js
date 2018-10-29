@@ -1,5 +1,9 @@
 jQuery(document).ready(function() {
 
+    if (!commentBoxIoOptions) {
+        commentBoxIoOptions = {};
+    }
+
     commentBox(commentBoxIoOptions['project-id'], {
         className: commentBoxIoOptions['class-name'], // the class of divs to look for
         defaultBoxId: commentBoxIoOptions['box-id'], // the default ID to associate to the div

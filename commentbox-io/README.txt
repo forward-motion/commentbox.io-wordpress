@@ -48,7 +48,7 @@ To learn more, check us out [here](https://commentbox.io).
 4. Activate the plugin
 5. On the sidebar, navigate to the new CommentBox.io option to open the Wordpress settings page.
 6. Go to [the CommentBox.io dashboard](https://dashboard.commentbox.io/) to sign up and create a project.
-7. Enter the project ID in the appropriate field in the Wordpress settings page.
+7. Once the project is created, enter the project ID in the appropriate field in the Wordpress settings page.
 8. Optionally customize the plugin, which you can read about [here](https://commentbox.io/docs/wordpress).
 9. Click **"Save"**, and the plugin will now be available wherever the original Wordpress comment box previously appeared.
 
@@ -60,11 +60,11 @@ We offer a free Personal plan with a 100 comment limit. We also offer a paid Pro
 
 = Is CommentBox.io compatible with Wordpress comments and users? =
 
-No, our comments and users are separate.
+No, our comments and users are separate. However, we will soon be providing a way to import Wordpress comments into CommentBox.io.
 
 = Will I lose my comments if I deactivate or remove the plugin? =
 
-No, your comments are safely stored in our system and are only deleted if you explicitly choose to from our dashboard.
+No, your comments are safely stored in our system and are only deleted if you explicitly choose to do so from our dashboard.
 
 = Can I export all my comments? =
 
@@ -81,6 +81,10 @@ We offer several customization options, which you can read about [here](https://
 3. Replying to a comment.
 4. Contract threads.
 5. User login options.
+
+== Support ==
+
+If you need any help or have any questions, feel free to reach out to hello@commentbox.io. A real human will reply!
 
 
 
