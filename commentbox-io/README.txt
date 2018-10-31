@@ -4,6 +4,7 @@ Tags: comments, privacy, threaded, email, notification, spam, avatars, community
 Requires at least: 4.0
 Tested up to: 4.9.8
 Requires PHP: 5.4
+Stable tag: trunk
 
 A beautiful, ad-free, hosted commenting alternative to Disqus.
 
@@ -60,7 +61,7 @@ We offer a free Personal plan with a 100 comment limit. We also offer a paid Pro
 
 = Is CommentBox.io compatible with Wordpress comments and users? =
 
-No, our comments and users are separate. However, we will soon be providing a way to import Wordpress comments into CommentBox.io.
+We provide you with the ability to import Wordpress comments into CommentBox.io, which you can read about [here](https://commentbox.io/docs/dashboard#importing-comments). However, we do not link Wordpress users to CommentBox.io users.
 
 = Will I lose my comments if I deactivate or remove the plugin? =
 
@@ -85,6 +86,11 @@ We offer several customization options, which you can read about [here](https://
 == Support ==
 
 If you need any help or have any questions, feel free to reach out to hello@commentbox.io. A real human will reply!
+
+== Changelog ==
+
+= 1.0 =
+* First release
 
 
 
